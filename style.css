@@ -7,6 +7,7 @@
 body {
   background-color: #191970;
   font-family: arial;
+  border: 10px solid black;
 }
 
 .main {
