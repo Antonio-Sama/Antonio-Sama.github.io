@@ -23,6 +23,7 @@ body {
   height: 10%;
 }
 .titulo {
+  text-align: center; 
   padding: 20px;
   width: 40vw;
   margin: auto;
@@ -84,4 +85,5 @@ footer {
   color:ghostwhite;
   padding: 10px 3% 10px;
 }
+
 
